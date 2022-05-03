@@ -1,4 +1,5 @@
 # CoffeeBreak
+link do projeto: https://coffee-break-tan.vercel.app/indexflex.html
 Projeto pessoal de um e-commerce de café, no qual busquei praticar meus conhecimentos em HTML, CSS e JS
 Usei no:
 
